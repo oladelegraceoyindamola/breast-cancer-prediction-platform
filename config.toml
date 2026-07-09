@@ -1,9 +1,0 @@
-[ui]
-hideTopBar = false
-
-[theme]
-primaryColor = "#3b82f6"
-backgroundColor = "#ffffff"
-secondaryBackgroundColor = "#f0f4ff"
-textColor = "#0f172a"
-font = "sans serif"
